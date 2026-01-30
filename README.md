@@ -55,10 +55,10 @@ Expect **10 tests** to pass.
 
 | Item | Value |
 |------|--------|
-| **Package ID** | `0x747a7ffd60eac9df3ee974bed9d53d767e4edabc89bbe12f623eef63f8c7b66c` |
-| **Transaction digest** | `7R21Br7h1fmsqEdkUPMeLGz2JwZbmvd51Yy358V9yTob` |
-| **TaskBoard** | `0xfeb971cf703acc83dd95ebe534fad57f692f96bf7ad73735c539d58ed39608c3` |
-| **AdminCap** | `0x80299a0673da41e644969f37a28f3874c8ca0c409d9afa2ab7f5e6888342bd67` |
+| **Package ID** | <a href="https://testnet.suivision.xyz/package/0x747a7ffd60eac9df3ee974bed9d53d767e4edabc89bbe12f623eef63f8c7b66c" target="_blank" rel="noopener noreferrer">`0x747a7ffd60eac9df3ee974bed9d53d767e4edabc89bbe12f623eef63f8c7b66c`</a> |
+| **Transaction digest** | <a href="https://testnet.suivision.xyz/txblock/7R21Br7h1fmsqEdkUPMeLGz2JwZbmvd51Yy358V9yTob" target="_blank" rel="noopener noreferrer">`7R21Br7h1fmsqEdkUPMeLGz2JwZbmvd51Yy358V9yTob`</a> |
+| **TaskBoard** | <a href="https://testnet.suivision.xyz/object/0xfeb971cf703acc83dd95ebe534fad57f692f96bf7ad73735c539d58ed39608c3" target="_blank" rel="noopener noreferrer">`0xfeb971cf703acc83dd95ebe534fad57f692f96bf7ad73735c539d58ed39608c3`</a> |
+| **AdminCap** | <a href="https://testnet.suivision.xyz/object/0x80299a0673da41e644969f37a28f3874c8ca0c409d9afa2ab7f5e6888342bd67" target="_blank" rel="noopener noreferrer">`0x80299a0673da41e644969f37a28f3874c8ca0c409d9afa2ab7f5e6888342bd67`</a> |
 
 ### Example: create_task
 
